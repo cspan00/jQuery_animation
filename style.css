@@ -1,1 +1,10 @@
-.dim{opacity: 0.0}
+.dim{
+
+  opacity: 0.0;
+  font-family: menlo;
+
+}
+.title{
+  opacity: 0.0;
+  font-family: menlo;
+}
